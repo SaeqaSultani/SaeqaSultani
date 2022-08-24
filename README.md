@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently : student on microverse<br> 👯I’m looking to collaborate on : upcoming projects<br> 🤝 I’m looking for help with : javascript<br> 🌱I’m currently learning : javascript<br> 💬Ask me about : java, android, dart, REST-APIs<br>
+I’m currently : student on microverse<br>I’m looking to collaborate on : upcoming projects<br>I’m looking for help with : javascript<br>I’m currently learning : javascript<br>Ask me about : java, android, dart, REST-APIs<br>
 
 
 ## 🌐 Socials:
@@ -14,3 +14,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaeqaSultani&icon=0&color=0)](https://visitcount.itsvg.in)
+
