@@ -1,8 +1,8 @@
 # 💫 About Me:
 🔭I’m currently : student on microverse<br>👯I’m looking to collaborate on : upcoming projects<br>
-🤝I’m looking for help with : javascript<br>
-🌱I’m currently learning : javascript<br>
-💬Ask me about : java, android, dart, REST-APIs<br>
+🤝I’m looking for help with : JavaScript<br>
+🌱I’m currently learning : JavaScript<br>
+💬Ask me about : Java, Android, Dart, REST-APIs<br>
 
 
 ## 🌐 Socials:
