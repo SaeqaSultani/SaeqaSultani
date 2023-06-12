@@ -1,4 +1,4 @@
-                                                                            Hi there 👋, I’m Saeqa
+
 
 # 💫 About Me:
 🔭I’m currently : student on microverse<br>👯I’m looking to collaborate on : upcoming projects<br>
