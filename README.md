@@ -1,10 +1,22 @@
 
+<div align="center">
+ 
 
-# 💫 About Me:
-🔭I’m currently : student on microverse<br>👯I’m looking to collaborate on : upcoming projects<br>
-🤝I’m looking for help with : JavaScript<br>
-🌱I’m currently learning : JavaScript<br>
-💬Ask me about : Java, Android, Dart, REST-APIs<br>
+  <h1>Hi there 👋, I’m Saeqa</h1>
+  <h3>Asoftware developer.<h3>
+  <h5>Looking for my new role.<h5>
+I'm a highly motivated software developer with a passion for building impactful applications. And now enrolled in <a href="https://www.microverse.org/">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.
+    
+</div>
+
+    
+
+🎓 I have a bachelor's degree in Computer Science.<br>
+🏃 I’m a certified "Full-stack Developer".<br>
+💯 Dream, Believe & Achieve<br>
+⚙️ My stack: HTML/CSS | JavaScript | React/Redux | Ruby/Rails | SQL | RSpec |<br>
+🟢 I am currently working on a project using MERN stack.<br>
+
 
 
 ## 🌐 Socials:
