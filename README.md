@@ -10,8 +10,6 @@
     
 </div>
 
-    
-
 🎓 I have a bachelor's degree in Computer Science.<br>
 🏃 I’m a certified "Full-stack Developer".<br>
 💯 Dream, Believe & Achieve<br>
